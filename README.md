@@ -8,8 +8,8 @@ Pomodoro app with flutter
 
 ## Images
 
-![image](./assets/images/pomodoro.png)
+<img src="./assets/images/pomodoro.png" alt="image" width="300"/>
 
 ## Gifs
 
-![gif](./assets/gifs/pomodoro.gif)
+<img src="./assets/gifs/pomodoro.gif" alt="gif" width="300"/>
